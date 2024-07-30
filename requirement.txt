@@ -1,0 +1,2 @@
+pip install sentence-transformers langchain_community langchain_experimental langchain_huggingface gradio
+pip install numpy==1.24.1
